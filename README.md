@@ -32,7 +32,7 @@ tsc --init
 everyday-types
 tsconfig
 
-### Features do TS - Confinguração básica e repositório
+### Features do TS
 
 - Tipagem forte: torna o código mais previsível e mais fácil de encontar bugs caso algo dê errado.
 
