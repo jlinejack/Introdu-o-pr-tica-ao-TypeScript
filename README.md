@@ -13,7 +13,7 @@
 ts|⇒ yarn add typescript
 // Verificando versão
 ts|⇒ tsc -v
-Version 3.9.5
+Version 4.7.4
 // Criando o arquivo em que vamos trabalhar
 ts|⇒ touch main.ts
 
