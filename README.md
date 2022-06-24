@@ -117,36 +117,6 @@ const n: number = obj;
 O tipo variável Any é útil quando você não deseja escrever um tipo longo apenas para convencer o TypeScript de que uma determinada linha de código está correta.
 
 
-### Definição de tipos de variáveis personalizados
-
-### Definindo o tipo de retorno de uma função
-
-### Quando usar  o tipo void em funções
-
-
-void é um tipo de resultado especial para funções, ele diz ao TypeScript que a função sempre retorna undefined (explicitamente ou implicitamente):
-
-function f1(): void { return undefined } // OK
-function f2(): void { } // OK
-function f3(): void { return 'abc' } // error
-
-### Incluindo callback em funções
-
-### Any está de volta e sobre unknown
-
-### Como funciona o tipo never e o comando throw
-
-### Breve revisão sobre os tipos apresentandos
-
-### tsconfig.json - target
-
-### tsconfig.json - lib
-
-### tsconfig.json - outDir e rootDir
-
-### tsconfig.json - nolmplicitAny e strictNullChecks
-
-### Breve revisão do tsconfig.json
 
 ##### Leitura adicional
 
